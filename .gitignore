@@ -1,0 +1,7 @@
+# Documents Word et PDF
+*.docx
+*.doc
+*.pdf
+
+# Fichiers temporaires de Word
+~$*
