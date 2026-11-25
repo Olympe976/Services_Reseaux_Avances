@@ -1,4 +1,4 @@
-# Services Réseaux Avancés — Travaux pratiques
+# Services Réseaux Avancés - Travaux pratiques
 
 **Université Cheikh Anta Diop**  
 **École Supérieure Polytechnique**  
@@ -25,4 +25,3 @@
 
 - `markdown/TPn_<SUJET>_rapport.md` : rapport du TP n
 - `markdown/images/TPn/` : captures d'écran du TP n
-- `word/` : versions Word des rapports (non versionnées)
